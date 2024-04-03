@@ -1,4 +1,4 @@
-# Previsão de preços da cesta básica
+# Previsão de preços da cesta básica (Séries Temporais)
 ![image](https://github.com/Andressaach/Previs-o-de-pre-os-da-cesta-b-sicata-b-siza/assets/100172009/29f0c90d-70d4-448c-9b1f-201964b2e305)
 
 # 1. Descrição
