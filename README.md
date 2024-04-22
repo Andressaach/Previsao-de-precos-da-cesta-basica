@@ -13,7 +13,7 @@
 - Esses achados destacam a importância de escolher a abordagem de modelagem adequada para prever os preços da cesta básica, fornecendo insights valiosos para formuladores de políticas, gestores de empresas e consumidores na região.
   
 # 2. Tecnologias e ferramentas
-As tecnologias e ferramentas utilizadas foram Python (Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Plotnine, Pmdarima, Xgboost, Nixtlats), Jupyter Notebook, algoritmos de regressão de aprendizado de máquina e estatística.
+As tecnologias e ferramentas utilizadas foram Python (Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Plotnine, Pmdarima, Xgboost), Jupyter Notebook, algoritmos de regressão de aprendizado de máquina e estatística.
 
 # 3. Objetivos do projeto
 
